@@ -8,9 +8,6 @@ body {
 .main {
     display: flex;
     height: 100vh;
-    min-height: 650px;
-    background: url(../img/bg/Livello_1.jpg) center/cover no-repeat;
-    color: #ffffff;
     position: relative;
     align-items: center;
 }
